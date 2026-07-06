@@ -20,6 +20,9 @@ class Solution {
                 chars[end] = temp;
                 start++;
                 end--;
+            }else{
+                start++;
+                end--;
             }
         }
         return new String(chars);
