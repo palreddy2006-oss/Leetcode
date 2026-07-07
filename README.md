@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/palreddy2006-oss/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/palreddy2006-oss/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## String
 |  |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/palreddy2006-oss/Leetcode/tree/master/1025-divisor-game) |
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/palreddy2006-oss/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
