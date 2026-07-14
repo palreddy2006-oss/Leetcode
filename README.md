@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/palreddy2006-oss/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/palreddy2006-oss/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0189-rotate-array](https://github.com/palreddy2006-oss/Leetcode/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/palreddy2006-oss/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/palreddy2006-oss/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## String
 |  |
@@ -37,8 +38,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/palreddy2006-oss/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/palreddy2006-oss/Leetcode/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/palreddy2006-oss/Leetcode/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/palreddy2006-oss/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/palreddy2006-oss/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/palreddy2006-oss/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/palreddy2006-oss/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
